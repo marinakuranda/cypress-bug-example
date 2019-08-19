@@ -7,18 +7,19 @@ E2E tests written with [cypress.io](https://cypress.io).
 To open Cypress in development mode with UI:
 
 
-´´´sh
+```sh
 npm run open
-´´´
+```
 
 To run ALL tests in headless mode (suitable for Docker):
 
-´´´sh
+```sh
 npm test
-´´´
+```
+
 To run a specific test in headless mode (suitable for Docker):
 npm test -- --spec=cypress/integration/test file name
 
-´´´sh
+```sh
 npm run ci
-´´´
+```
