@@ -1,0 +1,9 @@
+{
+    "chromeWebSecurity": false,
+    "video": false,
+    "baseUrl": "https://qa-store.uniid.it",
+    "defaultCommandTimeout":20000,
+    "env": {
+        "COUNTRY": "en"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "globals": {
+        "describe": true,
+        "beforeEach": true,
+        "beforeAll": true,
+        "it": true,
+        "cy": true,
+        "Cypress": true,
+        "expect": true
+    }
+}
